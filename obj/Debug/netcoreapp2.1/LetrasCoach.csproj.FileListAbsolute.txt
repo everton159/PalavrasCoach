@@ -1,0 +1,11 @@
+C:\Users\ebispo\Documents\LetrasCoach\bin\Debug\netcoreapp2.1\LetrasCoach.deps.json
+C:\Users\ebispo\Documents\LetrasCoach\bin\Debug\netcoreapp2.1\LetrasCoach.runtimeconfig.json
+C:\Users\ebispo\Documents\LetrasCoach\bin\Debug\netcoreapp2.1\LetrasCoach.runtimeconfig.dev.json
+C:\Users\ebispo\Documents\LetrasCoach\bin\Debug\netcoreapp2.1\LetrasCoach.dll
+C:\Users\ebispo\Documents\LetrasCoach\bin\Debug\netcoreapp2.1\LetrasCoach.pdb
+C:\Users\ebispo\Documents\LetrasCoach\obj\Debug\netcoreapp2.1\LetrasCoach.csprojAssemblyReference.cache
+C:\Users\ebispo\Documents\LetrasCoach\obj\Debug\netcoreapp2.1\LetrasCoach.csproj.CoreCompileInputs.cache
+C:\Users\ebispo\Documents\LetrasCoach\obj\Debug\netcoreapp2.1\LetrasCoach.AssemblyInfoInputs.cache
+C:\Users\ebispo\Documents\LetrasCoach\obj\Debug\netcoreapp2.1\LetrasCoach.AssemblyInfo.cs
+C:\Users\ebispo\Documents\LetrasCoach\obj\Debug\netcoreapp2.1\LetrasCoach.dll
+C:\Users\ebispo\Documents\LetrasCoach\obj\Debug\netcoreapp2.1\LetrasCoach.pdb
